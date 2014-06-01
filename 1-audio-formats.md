@@ -34,6 +34,12 @@ If you author a WAV file, it's going to be pretty large (in filesize - bigger th
 The reality is that most systems (phones, handheld gaming, the web) don't require and can't really handle rich audio. In games there are tens of sounds triggering all at once. If you plugged rich, uncompressed sound into a game environment, it's just going to fall over.
 
 
+## Sample rates and bits
+
+In addition to the file format (.WAV, .MP3 and so on), audio files various other layers of information. 
+The most important of these are the **sample rate (denoted in kHz or Kilohertz)** and the **bitrate (denoted in bits i.e. 8bit, 16bit)**
+
+
   
 ## Further reading
 [Audio file formats](http://en.wikipedia.org/wiki/Audio_file_format) *at wikipedia*
