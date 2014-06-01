@@ -6,7 +6,7 @@
 *This guide is for the layperson - it is designed to help anyone get just enough information to be able to do their work. It is not a detailed technical document*.
 
 
-Audio formats are simple. Sound can be heavily compressed, gently compressed or uncompressed  (fresh out of the oven and very detailed). It needs to be supplied in the right format (of which there are hundreds) to be read and decoded by your target platform, that's all. What format you choose is dependent on what you're making, but if you run into problems sound is easy to convert (for tips on conversion, see [tools of the trade](tools.md)).
+Audio formats are simple. Sound can be heavily compressed, gently compressed or uncompressed  (fresh out of the oven and very detailed). It needs to be supplied in the right format (of which there are hundreds) to be read and decoded by your target platform, that's all. What format you choose is dependent on what you're making, but if you run into problems sound is easy to convert (for tips on conversion, see [converting audio](converting-audio.md)).
 
 
 
