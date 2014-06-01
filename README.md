@@ -12,10 +12,10 @@ There's a dearth in the software community when it comes to information on sound
 
 ##### In the manual:
 
-> * [Introduction to audio formats](audio-formats.md)
-> * Implementing audio for smartphone applications
-> * [Tools of the trade (things I use and love)](tools.md)
-> * [Converting audio (quick start guide)](converting-audio.md)
+> 1. [Introduction to audio formats](audio-formats.md)
+> 2. Implementing audio for smartphone applications
+> 3. [Tools of the trade (things I use and love)](tools.md)
+> 4. [Converting audio (quick start guide)](converting-audio.md)
 
 
 
