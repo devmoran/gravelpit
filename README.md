@@ -1,5 +1,5 @@
-Gravelpit
-=========
+Gravelpit FAQs
+==============
 
 #### Unique, high-quality sounds for creative projects
 Gravelpit provides bundles of sounds for use in your games, web interfaces, smartphone apps or whatever else
