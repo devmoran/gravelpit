@@ -10,10 +10,10 @@ This repo will contain technical documentation to support Gravelpit. The aim is 
 
 ##### In the manual:
 
-* Introduction to audio formats
-* Implementing audio for smartphone applications
-* Tools of the trade (things I use and love)
-* Converting audio (quick start guide)
+> * Introduction to audio formats
+> * Implementing audio for smartphone applications
+> * Tools of the trade (things I use and love)
+> * Converting audio (quick start guide)
 
 
 
