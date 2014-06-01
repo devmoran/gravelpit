@@ -18,7 +18,7 @@ Uncompressed audio is rich and detailed.
 What does 'detail' mean?
 
 
-My preferred format for uncompressed audio is **WAV**. It is compatible with every system (Windows, Mac, Linux) I've come across. Mac users can probably get away with AIFF too, but why take the risk when WAV is more compatible across the board. 
+*My preferred format for uncompressed audio is **WAV***. It is compatible with every system (Windows, Mac, Linux) I've come across. Mac users can probably get away with AIFF too, but why take the risk when WAV is more compatible across the board. 
 
 If you author a WAV file, it's going to be pretty large (in filesize - bigger than images, smaller than video), but sound good.
 
