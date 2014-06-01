@@ -39,9 +39,9 @@ The reality is that most systems (phones, handheld gaming, the web) don't requir
 In addition to the file format (.WAV, .MP3 and so on), audio files contain various other layers of information which are quite important to the overall file. 
 The most important of these are the **sample rate (denoted in kHz or Kilohertz)** and the **bitrate (denoted in bits i.e. 8bit, 16bit)**
 
-*The sample and bitrate of a file is usually set when it is created. It has a large impact on the perceived quailty of the sounds (less kHz starts to sound shitty quickly). When in doubt, hunt for high sample and bitrate and [convert down](4-converting-audio.md) if necessary*
+*The sample and bitrate of a file is usually set when it is created. It has a large impact on the perceived quailty of the sounds (less kHz starts to sound shitty quickly). When in doubt, hunt for high sample and bitrate and [convert down](4-converting-audio.md) if necessary.*
 
-[How do I find out what the sample rate of a file is?](5-help.md))
+[How do I find out what the sample rate of a file is?](5-help.md)
 
 
 ### Sample rates
