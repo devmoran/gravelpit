@@ -1,8 +1,7 @@
 Gravelpit manual
 ==============
 
-#### Unique, high-quality sounds for creative projects
-Gravelpit provides bundles of sounds for use in your games, web interfaces, smartphone apps or whatever else.
+Gravelpit is a service which offers unique, high-quality sounds for creative projects. Simply, it provides bundles of sounds for use in your games, web interfaces, smartphone apps or whatever else. This manual comprises the FAQs to support the site.
 
 ## Purpose
 This repo will contain technical documentation to support Gravelpit (http://www.gravelpit.co). The aim is to put together a mini-manual of some basic principles on audio for the digital world and how best to implement it. 
