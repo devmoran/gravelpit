@@ -1,4 +1,4 @@
-1. An introduction to audio formats
+An introduction to audio formats
 =========
 
 ## Primer
