@@ -12,7 +12,7 @@ There's a dearth in the software community when it comes to information on sound
 
 ##### In the manual:
 
-> * Introduction to audio formats
+> * [Introduction to audio formats](audio-formats.md)
 > * Implementing audio for smartphone applications
 > * Tools of the trade (things I use and love)
 > * Converting audio (quick start guide)
