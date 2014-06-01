@@ -14,8 +14,8 @@ There's a dearth in the software community when it comes to information on sound
 
 > * [Introduction to audio formats](audio-formats.md)
 > * Implementing audio for smartphone applications
-> * Tools of the trade (things I use and love)
-> * Converting audio (quick start guide)
+> * [Tools of the trade (things I use and love)](tools.md)
+> * [Converting audio (quick start guide)](converting-audio.md)
 
 
 
