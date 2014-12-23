@@ -6,7 +6,7 @@ Gravelpit
 This [manual](https://github.com/devmoran/gravelpit/wiki) aims to distil down the FAQs that support the main website.
 
 ## Manual for basic audio
-Information for beginners and experienced designers and developers can be found on the [Wiki](https://github.com/devmoran/gravelpit/wiki)
+I've written what I hope is an approachable set of instructions for both beginners and experienced designers and developers in the [Wiki](https://github.com/devmoran/gravelpit/wiki). This'll get you started with integrating, playing and converting sounds in your project.
 
 
 
