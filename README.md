@@ -5,7 +5,7 @@ Gravelpit
 
 This [manual](https://github.com/devmoran/gravelpit/wiki) aims to distil down the FAQs that support the main website.
 
-## Manual for audio in software
+## Manual for basic audio
 Information for beginners and experienced designers and developers can be found on the [Wiki](https://github.com/devmoran/gravelpit/wiki)
 
 
